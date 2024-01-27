@@ -1,0 +1,21 @@
+{
+    "name": "li3",
+    "displayName": "li3",
+    "description": "classic li3 theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "li3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/li3-color-theme.json"
+            }
+        ]
+    }
+}
